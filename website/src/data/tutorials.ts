@@ -145,14 +145,14 @@ Its mathematical tractability makes it an excellent tool for gaining intuition a
         description: "Detailed mathematical analysis and biological interpretation of the model"
       },
       {
-        title: "Phase Plane Analysis Tutorial",
-        url: "https://mathinsight.org/equilibrium_introduction",
-        description: "Mathematical introduction to phase plane analysis and dynamical systems"
+        title: "Broad range of neural dynamics from a time-varying FitzHugh-Nagumo model and its spiking threshold estimation",
+        url: "https://pubmed.ncbi.nlm.nih.gov/22186931/",
+        description: "A study of using the FitzHugh-Nagumo (FHN) model for capturing neural spiking"
       },
       {
-        title: "Excitable Media and Pattern Formation",
-        url: "https://www.nature.com/articles/35065745",
-        description: "Nature review on excitable media dynamics and applications in biology"
+        title: "Six decades of the FitzHugh-Nagumo model: A guide through its spatio-temporal dynamics and influence across disciplines",
+        url: "https://arxiv.org/html/2404.11403v2",
+        description: "Clear explanation of the FitzHugh-Nagumo model and its applications "
       }
     ]
   },
@@ -212,14 +212,14 @@ These features make IF models the workhorse of large-scale neural network simula
     ],
     resources: [
       {
-        title: "Integrate-and-Fire Model - Scholarpedia",
-        url: "http://www.scholarpedia.org/article/Integrate-and-fire",
-        description: "Comprehensive overview of integrate-and-fire models and their variants"
+        title: "A Review of the Integrate-and-fire Neuron Model: I. Homogeneous Synaptic Input",
+        url: "https://www.researchgate.net/publication/7157048_A_Review_of_the_Integrate-and-fire_Neuron_Model_I_Homogeneous_Synaptic_Input",
+        description: "Comprehensive overview of integrate-and-fire models "
       },
       {
-        title: "Theoretical Neuroscience by Dayan & Abbott",
-        url: "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/",
-        description: "Classic textbook covering integrate-and-fire models and computational neuroscience"
+        title: "The Integrate-and-Fire Model ",
+        url: "https://goldmanlab.faculty.ucdavis.edu/wp-content/uploads/sites/263/2016/07/IntegrateFire.pdf",
+        description: "Explanation of the integrate-and-fire model with code examples"
       },
       {
         title: "Neural Dynamics - Cambridge Course",
