@@ -64,7 +64,7 @@ This project is a full-stack, visually-rich simulator that allows users to learn
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Routing**: React Router
-- **Graph Plotting**: Chart.js / Plotly (or your preferred library)
+- **Graph Plotting**: Chart.js / Plotly 
 - **Hosting**: GitHub Pages / Vercel
 - **Development Tools**: Boltz (for scaffolding)
 
@@ -74,7 +74,7 @@ This project is a full-stack, visually-rich simulator that allows users to learn
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/NeuroProject.git
+git clone https://github.com/Vikas-106/NeuroProject.git
 cd NeuroProject
 
 # Install dependencies
