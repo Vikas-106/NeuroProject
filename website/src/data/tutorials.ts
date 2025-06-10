@@ -75,14 +75,14 @@ This model forms the foundation for understanding more complex neural phenomena 
         description: "The seminal paper that introduced the mathematical model of action potentials"
       },
       {
-        title: "Hodgkin-Huxley Model - Scholarpedia",
-        url: "http://www.scholarpedia.org/article/Hodgkin-Huxley_model",
-        description: "Comprehensive academic overview with mathematical details and extensions"
+        title: "Hodgkin-Huxley Model - Neuronal Dynamics",
+        url: "https://neuronaldynamics.epfl.ch/online/Ch2.S2.html",
+        description: "Overview of the Hodgkin-Huxley model"
       },
       {
-        title: "Interactive Hodgkin-Huxley Tutorial",
-        url: "https://www.nernstpotential.com/hodgkin-huxley-model",
-        description: "Step-by-step interactive tutorial explaining the model components and dynamics"
+        title: "Memristive Hodgkin-Huxley Spiking Neuron Model for Reproducing Neuron Behaviors",
+        url: "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.730566/full",
+        description: "Memristive Neuromorphics: Materials, Devices, Circuits, Architectures, Algorithms and their Co-Design"
       }
     ]
   },
