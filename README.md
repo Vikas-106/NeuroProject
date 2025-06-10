@@ -3,7 +3,7 @@
 An interactive web-based simulator to visualize and understand the behavior of action potentials in neurons using well-established biophysical models.
 
 ## 🚀 Live Demo
-🌐 [Start Simulating](neuro-project-cu2z.vercel.app)
+🌐 [Start Simulating](https://neuro-project-cu2z.vercel.app/)
 
 ---
 
